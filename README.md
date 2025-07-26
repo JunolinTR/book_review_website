@@ -1,10 +1,6 @@
-Got it, bro! Here’s a **more humanized and friendly README** (still professional but with a casual tone that suits a personal project):
-
----
-
 # 📚 Book Review Website
 
-Welcome to the **Book Review Website** – a place where book lovers can share their thoughts, discover new reads, and feel like they’re part of a cozy online book club.
+Welcome to the **Read & Rant** – a place where book lovers can share their thoughts, discover new reads, and feel like they’re part of a cozy online book club.
 
 This project originally started as a **simple blog website**, but I turned it into a **dedicated space for book enthusiasts**. Now, you can log in, post reviews, and interact with other readers just like you would in a real book club!
 
